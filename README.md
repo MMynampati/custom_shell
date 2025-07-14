@@ -1,5 +1,5 @@
 # custom_shell
-## built for Principles in System Design @ UCI
+## Built for Principles in System Design @ UCI
 
 # 53shell (icssh) - Custom Unix Shell Implementation
 
