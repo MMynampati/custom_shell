@@ -1,7 +1,7 @@
 # custom_shell
 ## Built for Principles in System Design @ UCI
 
-# 53shell (icssh) - Custom Unix Shell Implementation
+# 53shell - Custom Unix Shell Implementation
 
 A fully-featured Unix shell implementation written in C that provides job control, I/O redirection, pipes, and background process management.
 
